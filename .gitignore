@@ -1,0 +1,16 @@
+.env
+/data
+/cp2k_inputs
+/cp2k_outputs
+/mull
+pyproject.toml
+uv.lock
+/artifacts
+cp2k_gnn_data.json
+cp2k_gnn_data_fixed.json
+cp2k_gnn_summary.csv
+handover.md
+structure_integrity_report.json
+.venv
+.idea
+/scripts
